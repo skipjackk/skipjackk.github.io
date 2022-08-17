@@ -677,6 +677,10 @@ video {
   padding-top: 9rem;
 }
 
+.pb-32 {
+  padding-bottom: 8rem;
+}
+
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
